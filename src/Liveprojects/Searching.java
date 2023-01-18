@@ -1,5 +1,7 @@
 package Liveprojects;
 
+import javax.xml.transform.stax.StAXResult;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -7,12 +9,18 @@ public class Searching {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        int target = sc.nextInt();
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        int ans = searchLinear(arr, 88);
-        System.out.println(ans);
+//        int ans = searchLinear(arr, 88);
+//        System.out.println(ans);
+        ArrayList<Integer> ans = findElement(arr, target);
+        for (int i = 0; i < ans.size(); i++) {
+            System.out.println(ans.get(i)+ " ");
+
+        }
     }
     public static int searchLinear(int[] arr, int element){
         for (int i = 0; i < arr.length; i++) {
@@ -57,5 +65,14 @@ public class Searching {
             }
         }
         return -1;
+    }
+    public static ArrayList<Integer> findElement(int[] arr, int target){
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i] == target){
+                list.add(i);
+            }
+        }
+        return list;
     }
 }
