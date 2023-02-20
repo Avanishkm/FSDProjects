@@ -4,37 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="765b3c70-7f2b-463d-ab3a-55a18c0115bb" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/CountSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/DLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Deletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/EqualDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/HashingPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/KthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LargestSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedListImplementationOfQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LongestSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LongestUniqueCharactersSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/MergeS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/MergeTwoSortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/NumberOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/PushAtBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/QueueLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackJCF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/SubarraysWithEqual1sAnd0s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/SumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/ZerosAtFrontOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/singleCreation.java" afterDir="false" />
+    <list default="true" id="765b3c70-7f2b-463d-ab3a-55a18c0115bb" name="Changes" comment="some important questions">
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Queue/NumberOfRecentCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Queue/ReverseFirstKElementsOfQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/Arrays/HelpAnjulika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/EvaluateExpressionUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/MaximumPopulationYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/BinaryConvertLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/EvaluateExpressionUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/NearestSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/NextLargerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/PrefixToInfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/InterviewsQuestions/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/LeetCode/ContainerWithMostWater11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/LeetCode/FaultyKeyboard925.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/LeetCode/MajorityElement229.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/LeetCode/SquaresOfSortedArray977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/PalindromeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/Pepcoding/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticsQuestions/Pepcoding/getModifiedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/CountSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/CountSubarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/DLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/DLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Deletion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/Deletion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/EqualDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/EqualDistinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Exchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/Exchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/HashingPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/HashingPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/KthLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/KthLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/KthSmallestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/KthSmallestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LargestSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/LargestSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedListImplementationOfQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/LinkedListImplementationOfQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LongestSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/LongestSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LongestUniqueCharactersSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/LongestUniqueCharactersSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/PushAtBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/PushAtBottom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/QueueLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/QueueLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/StackAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackJCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/StackJCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/StackLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/StackReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Stack/StackReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/SubarraysWithEqual1sAnd0s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/SubarraysWithEqual1sAnd0s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/SumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/Hashing/SumEqualsK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/ZerosAtFrontOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/ZerosAtFrontOfLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/singleCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticsQuestions/ImportantQues/LinkedList/singleCreation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +96,28 @@
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AVANISH\FSD Projects\src\PracticsQuestions\ImportantQues\LinkedList" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PracticsQuestions.ImportantQues.Stack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="EvaluateExpressionUsingStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticsQuestions.ImportantQues.EvaluateExpressionUsingStack" />
+      <module name="FSD Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticsQuestions.ImportantQues.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LiveClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Liveprojects.Bitwise.LiveClass" />
       <module name="FSD Projects" />
@@ -112,19 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Liveprojects.Sorting" />
-      <module name="FSD Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Liveprojects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Liveprojects.Arrays.TwoSum" />
       <module name="FSD Projects" />
@@ -153,19 +179,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.EvaluateExpressionUsingStack" />
       <item itemvalue="Application.LiveClass" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.spiralMatrix" />
-      <item itemvalue="Application.Sorting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvaluateExpressionUsingStack" />
         <item itemvalue="Application.LiveClass" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.spiralMatrix" />
-        <item itemvalue="Application.Sorting" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671692174169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some important questions">
+      <created>1675883384226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675883384226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +274,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial version" />
+    <MESSAGE value="some important questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="some important questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
